@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Lab Summary:**
 
 # 
@@ -14,3 +15,6 @@
 
 
 
+=======
+# git-practice
+>>>>>>> 3259f7db00c3ddbfb7dd01257b52efc1c321eb8c
